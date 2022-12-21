@@ -23,12 +23,13 @@
   margin: auto;
 }
 
-table {
-  color: white;
-  text-align: center;
-  width: 100%;
-  border-collapse: collapse;
-}
+  table {
+    color: white;
+    text-align: center;
+    margin-left: -40%;
+    width: 180%;
+    border-collapse: collapse;
+  }
 
 td,
 th {
